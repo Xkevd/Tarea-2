@@ -27,13 +27,4 @@ function [id,jd]=posDestino(i,j,mov,laberinto)
    id=i_i
    jd=j_i
  endif
-
-
-
-
-
-
-
-
-
 endfunction
